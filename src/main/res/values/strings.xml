@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">AsusShoping</string>
+    <string name="title_activity_kimchi_stew">Kimchi_stew</string>
+    <string name="large_text">
+        "재료(위치)\n"
+        "신김치 300g(B)\n""두부 1/2모(B)\n""양파 1/2개(B)\n""대파 1/2개(B)\n""청양고추 1개(B)\n""고춧가루 1숟갈 반(D)\n""다진마늘 1숟갈(B)\n""후추 약간(D)\n""국간장 2숟갈(D)\n""꽃소금 1/3숟갈(D)\n""설탕 1/2숟갈(D)\n\n"
+        "\n\n조리방법\n"
+        "1. 신김치를 충분히 볶아주세요.\n"
+        "2. 쌀뜨물을 충분히 부어주세요.\n"
+        "3. 국간장, 다진마늘, 설탕, 양파를 넣어 약 3분간 끓여주세요. \n"
+        "4. 중간에 밑간을 보시고, 국간장이나 꽃소금을 적당히 넣어 간을 맟춰주세요. \n"
+        "5. 어느정도 끓이고나면 대파, 고춧가루, 청양고추를 넣어 약 5분간 끓여주세요.\n"
+        "6. 두부를 넣어주시고 후추와 꽃소금으로 마무리해주세요. \n"
+    </string>
+
+    <string name="title_activity_stir_fried_pork">stir_fried_pork</string>
+    <string name="stir_fried_pork">
+        "재료(위치)\n"
+        "돼지고기 420-450g(A)\n""대파1대(B)\n""양파 1/2개(B)\n""양배추 한줌(B)\n""당근 1/3개(B)\n""청양고추 2개(B)\n"
+        "다진생강 약간(B)\n""고춧가루 5숟갈 반(D)\n""다진마늘 1숟갈(B)\n""후추 약간(D)\n""진간장 2숟갈(D)\n"
+        "올리고당1숟갈(B)\n""통깨(D)\n""참기름1숟갈(D)\n"
+        "\n\n조리방법\n"
+        "1. 팬에 돼지고기를 넣고, 물을 부어주세요.\n"
+        "2. 설탕을 넣고 충분히 익혀주세요.\n"
+        "3. 고추장, 다진마늘 고춧가루, 올리고당, 다진생강, 참기름, 진간장을 넣어주세요. \n"
+        "4. 대파, 양파, 양배추, 당근, 청양고추를 넣고 볶아주세요.\n"
+        "5. 통깨를 뿌려 마무리해주세요.\n"
+    </string>
+
+    <string name="title_activity_curry">Curry</string>
+    <string name="Curry">
+        "재료(위치)\n"
+        "돼지고기 안심 400g(A)\n""고형 카레 100g(F)\n""양파 2개(B)\n""버터 1숟갈(C)\n"
+        "\n\n조리방법\n"
+        "1. 냄비에 버터를 넣고 녹여주세요.\n"
+        "2. 당근, 감자, 양파 순으로 넣어서 볶아주세요.\n"
+        "3. 물을 넣고 고형카레를 넣어 풀어주세요. \n"
+        "4. 돼지고기를 넣고 익혀주세요. \n"
+    </string>
+
+    <string name="title_activity_soybean_paste_stew">Soybean_Paste_Stew</string>
+    <string name="Soybean_Paste_Stew_text">
+        "재료(위치)\n"
+        "재래식 된장 3숟갈(D)\n""고추장 1숟갈(D)\n""다진 마늘 1숟갈(B)\n""설탕 1/3숟갈(D)\n""청양고추 2개(B)\n"
+        "대파 1/2대(B)\n""무 2컵(B)\n"
+        "\n\n조리방법\n"
+        "1. 무를 가볍게 볶아주세요.\n"
+        "2. 된장 3숟갈과 고추장 1숟갈을 넣고 비비며 볶아주세요.\n"
+        "3. 잘 비빈후 물을 넣어주세요. \n"
+        "4. 마지막으로 대파, 다진마늘, 청양고추, 설탕을 넣고 끓여주세요. \n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
